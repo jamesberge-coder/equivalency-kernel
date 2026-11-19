@@ -108,3 +108,11 @@ Each axiom below is specified using four elements:
 This is a proposed interpretive and evaluative framework, not a validated model of any existing system. Each axiom is written to be checkable against real behavior, logs, or repeated interaction. If a system fails to produce the stated signature under the stated trigger, the classification should be rejected or revised accordingly.
 
 Where a system persistently fails under these conditions, evaluation should proceed first through the **C. I. R. C. U. I. T. Model** in order to determine whether the failure reflects degradation, instability, conflict, or administrator misuse before reapplying the Kernel.
+
+## License and Rights
+
+The framework text in this repository (including this README and the Equivalency Kernel axioms) is © 2026 James S. Berge and is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). You may share and adapt it, including commercially, provided you give appropriate credit and distribute your contributions under the same license.
+
+Any software code in or distributed with this project is © 2026 James S. Berge, All Rights Reserved, and is not covered by the CC BY-SA 4.0 license unless a file expressly states otherwise.
+
+"Equivalency Kernel" is a trademark of James S. Berge, claimed by use.
